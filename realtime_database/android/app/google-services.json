@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "894924678717",
+    "project_id": "realtime-database-edba2",
+    "storage_bucket": "realtime-database-edba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894924678717:android:0effbff328e46ba9476c54",
+        "android_client_info": {
+          "package_name": "com.databaseRd.realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894924678717-eibe63oo865gvsnmir32k3fsptavealu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ahCPhaQqF0sBUS4Xx1gyBIXm3p9Ab-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894924678717-eibe63oo865gvsnmir32k3fsptavealu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894924678717:android:d650739c7f71536e476c54",
+        "android_client_info": {
+          "package_name": "com.databaseRdrajat.realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894924678717-eibe63oo865gvsnmir32k3fsptavealu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ahCPhaQqF0sBUS4Xx1gyBIXm3p9Ab-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894924678717-eibe63oo865gvsnmir32k3fsptavealu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
