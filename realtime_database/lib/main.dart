@@ -11,6 +11,7 @@ import 'package:realtime_database/view/home/home_view.dart';
 import 'package:realtime_database/view/wrapper.dart';
 import 'package:provider/provider.dart';
 
+
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
